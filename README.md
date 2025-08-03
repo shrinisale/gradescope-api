@@ -1,4 +1,7 @@
 # Gradescope API
+
+This is just a copy by Shrinivas Sale and under dev
+
 This is an initial attempt at reverse engineering gradescope to allow for automated submission and controlling other
 behaviour in an automated way as there is no official gradescope API.
 
